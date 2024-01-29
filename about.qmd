@@ -9,89 +9,52 @@ page-layout: article
 ::: {.callout-tip icon="false"}
 ## [{{< fa building-columns size=1.5x >}}]{style="color:blue"} Ph.D Student in Statistics, University of Connecticut.
 
-[{{< fa calendar size=1.5x >}}]{style="color:blue"} Sep. 2019 - Present\
-[{{< fa tag size=1x >}}]{style="color:blue"} an academic leave of absence (Aug. 2021 \~ Aug. 2023)
+[{{< fa calendar size=1.5x >}}]{style="color:blue"} Aug. 2019 - Present\
+##[{{< fa tag size=1x >}}]{style="color:blue"} an academic leave of absence (Aug. 2021 \~ Aug. 2023)
 
-[{{< fa user size=1.5x >}}]{style="color:blue"} Advisor : [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
+[{{< fa user size=1.5x >}}]{style="color:blue"} Advisor : [Dipak K. Dey](https://statistics.uconn.edu/person/dipak-dey/); [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
 :::
 
 ::: {.callout-tip icon="false"}
-## [{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Statistics, Korea University.
+## [{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Mathematics, City College of New York.
 
-[{{< fa calendar size=1.5x >}}]{style="color:crimson"} Mar. 2015 - Feb. 2017\
-[{{< fa user size=1.5x >}}]{style="color:crimson"} Advisor : [Yousung Park](https://www.researchgate.net/profile/Yousung-Park)
+[{{< fa calendar size=1.5x >}}]{style="color:crimson"} Aug. 2017 - Dec. 2018\
+:::
 
-[{{< fa check size=1x >}}]{style="color:crimson"} Thesis : A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance [[{{< fa download size=1.5x >}}](http://www.riss.kr/link?id=T14435637)]{style="color:crimson"}
+
+::: {.callout-tip icon="false"}
+## [{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Mathematics, University of Tirana.
+
+[{{< fa calendar size=1.5x >}}]{style="color:crimson"} Sept. 2010 - Jul. 2012\
 :::
 
 ::: {.callout-tip icon="false"}
-## [{{< fa graduation-cap size=1.5x >}}]{style="color:red"} B.S. in Statistics, Sejong University.
+## [{{< fa graduation-cap size=1.5x >}}]{style="color:red"} B.S. Mathematics, University of Tirana
 
-[{{< fa calendar size=1.5x >}}]{style="color:red"} Mar. 2010 - Feb. 2015\
-[{{< fa user size=1.5x >}}]{style="color:red"} Advisor : [Seungyeon Lee](http://dasan.sejong.ac.kr/~leesy/)
+[{{< fa calendar size=1.5x >}}]{style="color:red"} Sept. 2007 - Jul. 2010\
+
 :::
 
 ## **Awards and Honors**
 
 ::: {.callout-warning appearance="simple" icon="false"}
-Scholarships for Internationalization, Korea Univ. Spring 2016\
-Academic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\
-BK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\
-**Magna Cum Laude, Sejong Univ. Spring 2015**\
-Honors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011\
+Excellence of Teaching Certificate, Department of Statistics, University of Connecticut, October 2023\
+Best Student Poster Award, Virginia Tech Univ. July 2023\
+Conference Participation Award, The Graduate School, University of Connecticut, July 2023\
+Pre-doctoral Fellowship, Department of Statistics, University of Connecticut, Summer 2022, 2021\
+Summer Research Support, Department of Statistics, University of Connecticut, Summer 2021\
+Rich Scholarship,Department of Mathematics, City College of New York, July 2018\
+Rich Summer Internship,Department of Mathematics, City College of New York, Summer 2018\
+Merit Scholarship, Faculty of Natural Science, University of Tirana, 2011, 2012, 2013\
 :::
 
-## ![](images/4.parti_eaui4-01.jpg){width="344"}![](images/certificate.png){width="320"}
+## ![](images/p1.pdf){width="344"}![](images/p2.pdf){width="320"}
 
 ## **Technical Skills**
 
 ::: {.callout-caution appearance="simple" icon="false"}
-**Advance programming skills of R, SAS, Python and SQL**\
-Advance technical skills of SPSS statistics and SPSS modeler\
-Moderate programming skills in HTML, C, JAVA\
+**Advance programming skills of R, STAN**\
+Moderate programming skills in Python and SAS\
 :::
 
-## **Certificates**
 
-::: {.callout-note appearance="simple" icon="false"}
-SAS Certified Base/Advanced Programmer for SAS 9, JUL 2015\
-Oracle Database 10g Administrator Certified Professional, SEP 2014\
-Oracle Database 12c Administrator Certified Professional, JAN 2016\
-:::
-
-::: {style="display: grid; grid-template-columns: 4fr 1fr "}
-<div>
-
-::: {data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0f6b79a6-8d8b-4d44-abb7-bb0b59626460" data-share-badge-host="https://www.credly.com"}
-:::
-
-```{=html}
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-```
-::: {data-iframe-width="150" data-iframe-height="270" data-share-badge-id="51df81fd-88bc-4fd4-96d2-9eb4ad351177" data-share-badge-host="https://www.credly.com"}
-:::
-
-```{=html}
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-```
-::: {data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6460c03e-a9cb-4e18-ac13-62be7750ea89" data-share-badge-host="https://www.credly.com"}
-:::
-
-```{=html}
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-```
-::: {data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c204194d-4fc9-408a-b5a6-cdfde764d6cc" data-share-badge-host="https://www.credly.com"}
-:::
-
-```{=html}
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-```
-
-</div>
-
-<div>
-
-[![](images/Oracle_Professional_Badge_2-03.jpg){fig-align="left" width="120"}](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0848096FADCE51B5909D87256F2D7160927999D6903AA17603B021F151D605F3)
-
-</div>
-:::

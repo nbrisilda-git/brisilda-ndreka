@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Brisilda Ndreka",
     "section": "",
-    "text": "Ph.D Candidate in Statistics, UConn\n Advisor :Dipak K. Dey Victor Hugo Lachos\n M.S. in Mathematics, City College of New York, 2018\n M.S. in Mathematics, University of Tirana, 2012\n B.S. in Mathematics, University of Tirana 2010"
+    "text": "Ph.D Candidate in Statistics, UConn\n Advisor :Dipak K. Dey; Victor Hugo Lachos\n M.S. in Mathematics, City College of New York, 2018\n M.S. in Mathematics, University of Tirana, 2012\n B.S. in Mathematics, University of Tirana, 2010"
   },
   {
     "objectID": "research.html",
@@ -123,7 +123,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Ph.D Student in Statistics, University of Connecticut.\n\n\n\n Sep. 2019 - Present\n an academic leave of absence (Aug. 2021 ~ Aug. 2023)\n Advisor : Victor Hugo Lachos\n\n\n\n\n\n\n\n\n M.S. in Statistics, Korea University.\n\n\n\n Mar. 2015 - Feb. 2017\n Advisor : Yousung Park\n Thesis : A study on financial stability through the estimation of child education and childcare budget, workers’ compensation insurance, and employment insurance \n\n\n\n\n\n\n\n\n B.S. in Statistics, Sejong University.\n\n\n\n Mar. 2010 - Feb. 2015\n Advisor : Seungyeon Lee"
+    "text": "Ph.D Student in Statistics, University of Connecticut.\n\n\n\n Aug. 2019 - Present\n## an academic leave of absence (Aug. 2021 ~ Aug. 2023)\n Advisor : Dipak K. Dey; Victor Hugo Lachos\n\n\n\n\n\n\n\n\n M.S. in Mathematics, City College of New York.\n\n\n\n Aug. 2017 - Dec. 2018\n\n\n\n\n\n\n\n\n\n M.S. in Mathematics, University of Tirana.\n\n\n\n Sept. 2010 - Jul. 2012\n\n\n\n\n\n\n\n\n\n B.S. Mathematics, University of Tirana\n\n\n\n Sept. 2007 - Jul. 2010"
   },
   {
     "objectID": "about.html#educational-history",
@@ -151,7 +151,7 @@
     "href": "about.html#technical-skills",
     "title": "About",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\n\n\n\n\n\nAdvance programming skills of R, SAS, Python and SQL\nAdvance technical skills of SPSS statistics and SPSS modeler\nModerate programming skills in HTML, C, JAVA"
+    "text": "Technical Skills\n\n\n\n\n\n\nAdvance programming skills of R, STAN\nModerate programming skills in Python and SAS"
   },
   {
     "objectID": "about.html#certificates",
@@ -165,7 +165,7 @@
     "href": "about.html#awards-and-honors",
     "title": "About",
     "section": "Awards and Honors",
-    "text": "Awards and Honors\n\n\n\n\n\n\nScholarships for Internationalization, Korea Univ. Spring 2016\nAcademic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\nBK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\nMagna Cum Laude, Sejong Univ. Spring 2015\nHonors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011"
+    "text": "Awards and Honors\n\n\n\n\n\n\nExcellence of Teaching Certificate, Department of Statistics, University of Connecticut, October 2023\nBest Student Poster Award, Virginia Tech Univ. July 2023\nConference Participation Award, The Graduate School, University of Connecticut, July 2023\nPre-doctoral Fellowship, Department of Statistics, University of Connecticut, Summer 2022, 2021\nSummer Research Support, Department of Statistics, University of Connecticut, Summer 2021\nRich Scholarship,Department of Mathematics, City College of New York, July 2018\nRich Summer Internship,Department of Mathematics, City College of New York, Summer 2018\nMerit Scholarship, Faculty of Natural Science, University of Tirana, 2011, 2012, 2013"
   },
   {
     "objectID": "about.html#teaching-assistant",
@@ -228,7 +228,7 @@
     "href": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x",
     "title": "Brisilda Ndreka",
     "section": "Contact :   [[{{< fa brands github size=1.5x ##>}}]",
-    "text": "Contact :   [[{{< fa brands github size=1.5x ##>}}]\n##(https://github.com/heeju-lim)]{style=“color:green”} []##(https://www.researchgate.net/profile/Heeju-Lim)"
+    "text": "Contact :   [[{{< fa brands github size=1.5x ##>}}]"
   },
   {
     "objectID": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x-fa-brands-reasearchgate-size1.5x",
