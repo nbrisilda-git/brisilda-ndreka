@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Brisilda Ndreka",
     "section": "",
-    "text": "Ph.D Student in Statistics, UConn\n Advisor : Victor Hugo Lachos\n M.S. in Statistics, Korea Univ. 2017\n B.S. in Statistics, Sejong Univ. 2015"
+    "text": "Ph.D Candidate in Statistics, UConn\n Advisor :Dipak K. Dey Victor Hugo Lachos\n M.S. in Mathematics, City College of New York, 2018\n M.S. in Mathematics, University of Tirana, 2012\n B.S. in Mathematics, University of Tirana 2010"
   },
   {
     "objectID": "research.html",
@@ -193,7 +193,7 @@
     "href": "index.html#interests",
     "title": "Brisilda Ndreka",
     "section": "Interests",
-    "text": "Interests\n Mixture Models  Financial Statistics\n Time Series Analysis  Bio Statistics"
+    "text": "Interests\n Bayesian Inference  Social Networking\n Health Behavior  Statistical Network Analysis"
   },
   {
     "objectID": "index.html#contact-information-fa-envelope-size2x",
@@ -226,9 +226,9 @@
   {
     "objectID": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x",
     "href": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x",
-    "title": "Heeju Lim",
-    "section": "Contact :   ",
-    "text": "Contact :"
+    "title": "Brisilda Ndreka",
+    "section": "Contact :   [[{{< fa brands github size=1.5x ##>}}]",
+    "text": "Contact :   [[{{< fa brands github size=1.5x ##>}}]\n##(https://github.com/heeju-lim)]{style=“color:green”} []##(https://www.researchgate.net/profile/Heeju-Lim)"
   },
   {
     "objectID": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x-fa-brands-reasearchgate-size1.5x",
