@@ -40,5 +40,4 @@ about:
 [{{< fa check size=1.5x >}}]{style="color:green"}   Statistical Network Analysis
 
 
-## **Contact :** [[{{< fa envelope size=1.5x >}}](mailto:brisilda. ndreka@uconn.edu)]{style="color:green"}     [[{{< fa brands linkedin size=1.5x >}}](https://www.linkedin.com/in/brisilda-ndreka-25293696/)]{style="color:green"}     [[{{< fa brands github size=1.5x ##>}}]
-
+## **Contact :** [[{{< fa envelope size=1.5x >}}](mailto:brisilda. ndreka@uconn.edu)]{style="color:green"}     [[{{< fa brands linkedin size=1.5x >}}](https://www.linkedin.com/in/brisilda-ndreka-25293696/)]{style="color:green"}     

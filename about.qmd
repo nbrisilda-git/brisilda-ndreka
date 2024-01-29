@@ -10,7 +10,7 @@ page-layout: article
 ## [{{< fa building-columns size=1.5x >}}]{style="color:blue"} Ph.D Student in Statistics, University of Connecticut.
 
 [{{< fa calendar size=1.5x >}}]{style="color:blue"} Aug. 2019 - Present\
-##[{{< fa tag size=1x >}}]{style="color:blue"} an academic leave of absence (Aug. 2021 \~ Aug. 2023)
+\##[{{< fa tag size=1x >}}]{style="color:blue"} an academic leave of absence (Aug. 2021 \~ Aug. 2023)
 
 [{{< fa user size=1.5x >}}]{style="color:blue"} Advisor : [Dipak K. Dey](https://statistics.uconn.edu/person/dipak-dey/); [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
 :::
@@ -20,7 +20,6 @@ page-layout: article
 
 [{{< fa calendar size=1.5x >}}]{style="color:crimson"} Aug. 2017 - Dec. 2018\
 :::
-
 
 ::: {.callout-tip icon="false"}
 ## [{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Mathematics, University of Tirana.
@@ -32,7 +31,6 @@ page-layout: article
 ## [{{< fa graduation-cap size=1.5x >}}]{style="color:red"} B.S. Mathematics, University of Tirana
 
 [{{< fa calendar size=1.5x >}}]{style="color:red"} Sept. 2007 - Jul. 2010\
-
 :::
 
 ## **Awards and Honors**
@@ -48,7 +46,7 @@ Rich Summer Internship,Department of Mathematics, City College of New York, Summ
 Merit Scholarship, Faculty of Natural Science, University of Tirana, 2011, 2012, 2013\
 :::
 
-## ![](images/p1.pdf){width="344"}![](images/p2.pdf){width="320"}
+## ![](images/p1.pdf)![](images/p2.pdf){width="320"}
 
 ## **Technical Skills**
 
@@ -56,5 +54,3 @@ Merit Scholarship, Faculty of Natural Science, University of Tirana, 2011, 2012,
 **Advance programming skills of R, STAN**\
 Moderate programming skills in Python and SAS\
 :::
-
-
