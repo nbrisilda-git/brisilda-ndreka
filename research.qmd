@@ -1,0 +1,11 @@
+---
+title: "Research"
+toc: false
+listing: 
+  contents: 
+   - "paper/*.qmd"
+  type: table
+  fields: [Authors, title, date]
+---
+
+## **Publication**

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Heeju Lim"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - project.qmd
+      - research.qmd
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+    page-layout: full
+    fontsize: 1.1em
+
+
+editor: visual
+

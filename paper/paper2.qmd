@@ -1,0 +1,7 @@
+---
+title: "[Clinical validation of the 2017 international consensus guidelines on intraductal papillary mucinous neoplasm of the pancreas](https://doi.org/10.4174/astr.2019.97.2.58)"
+Authors: "Kang J. et al."
+date: "Jul 29, 2019"
+toc: false
+---
+

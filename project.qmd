@@ -1,0 +1,85 @@
+---
+title: "Experience"
+toc: false
+page-layout: article
+---
+
+
+## **Teaching Assistant**
+
+::: {.callout-important appearance="simple" icon="false"}
+Introduction to Mathematical Statistics 2, UConn. Spring 2021\
+Introduction to Mathematical Statistics 1, UConn. Fall 2020\
+Bayesian Statistics, Sejong Univ. Fall 2018\
+Introduction to Database(mySQL), Korea Univ. Fall 2015\
+Introduction to C-Programming, Korea Univ. Spring 2015\
+Mathematical Statistics 2, Sejong Univ. Fall 2014\
+:::
+
+
+
+## **Work and Research Experience**
+
+::: {.callout-caution icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:crimson"} **Data Scientist, Korea University**
+
+[{{< fa tag size=1x >}}]{style="color:crimson"} Department of Convergence and Open Sharing System for New Energy Industry\
+[{{< fa calendar size=1.5x >}}]{style="color:crimson"} Oct 2022 - Mar 2023\
+[{{< fa user size=1.5x >}}]{style="color:crimson"} Advisor : [Gyu Tae Kim](https://ndl.korea.ac.kr/)
+
+Developed a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing
+:::
+
+![](images/images-01.jpg){width="355" height="273"} ![](images/images10.jpg){width="310"}
+
+::: {.callout-warning icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:peru"} **Statistician, National Tax Service of the Republic of Korea**
+[{{< fa tag size=1.5x >}}]{style="color:peru"} Department of National Tax data\
+[{{< fa calendar size=1.5x >}}]{style="color:peru"} Apr 2022 - Sep 2022\
+
+:::
+
+<!--![](images/image7.jpg){width="220"} ![](images/image6.jpg){width="220"} ![](images/image4.jpg){width="220"}
+-->
+::: {.callout-note icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:blue"} **Webmaster & TA, University of Connecticut**
+[{{< fa tag size=1.5x >}}]{style="color:blue"} Department of Statistics and [New England Statistical Society(NESS)](https://nestat.org/about/it-team/)\
+[{{< fa calendar size=1.5x >}}]{style="color:blue"} Aug 2019 - May 2021\
+
+
+Organized [the 4th Stat4Onc Annual Symposium](https://events.stat4onc.org/stat4onc2021/)
+
+[NextGen : Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [NextGen : Data Science Day(2019)](https://nestat.org/nextgen/dsd2019/) 
+:::
+
+::: {.callout-caution icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:red"} **Researcher & TA, Sejong University**
+[{{< fa tag size=1.5x >}}]{style="color:red"} Biostatistics laboratory\
+[{{< fa calendar size=1.5x >}}]{style="color:red"} Sep 2018 - Jun 2019\
+[{{< fa user size=1.5x >}}]{style="color:red"} Advisor : [Seungyeon Lee](http://dasan.sejong.ac.kr/~leesy/)
+
+:::
+
+![](images/images3-01.jpg){width="266"} ![](images/image8-01.jpg){width="400"}
+
+::: {.callout-tip icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:green"} **Data Analyst, DATASOLUTION inc. - Former SPSS Korea**
+[{{< fa tag size=1.5x >}}]{style="color:green"} Department of Consulting Business HQ\
+[{{< fa calendar size=1.5x >}}]{style="color:green"} Mar 2017 - Sep 2017\
+:::
+
+::: {.callout-caution icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:crimson"} **RA & TA Graduate Student, Korea University**
+[{{< fa tag size=1.5x >}}]{style="color:crimson"} Time Series Analysis Laboratory\
+[{{< fa calendar size=1.5x >}}]{style="color:crimson"} Mar 2015 - Feb 2017\
+[{{< fa user size=1.5x >}}]{style="color:crimson"} Advisor : [Yousung Park](https://www.researchgate.net/profile/Yousung-Park)
+
+:::
+
+![](images/image12-02.jpg){width="380"} ![](images/image11-02.jpg){width="277"}
+
+
+
+```{r}
+
+```

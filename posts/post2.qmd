@@ -1,0 +1,71 @@
+---
+title: "Data Exploration - Censored Water Quality Data"
+toc: false
+page-layout: article
+---
+
+
+Data Exploration - Censored Water Quality Data
+
+
+The dataset consists of 13,062 observations and 17 variables. Among these variables, 14 are related to water quality components, and 9 of them have interval-censored data. Additionally, there are variables for month, date, and station and layer.
+
+
+```{r code5-1, fig.align="center" , out.width = "100%", warning = FALSE, message = FALSE}
+###################################################################
+#https://cran.r-project.org/web/packages/baytrends/vignettes/Processing_Censored_Data.html
+#install.packages("baytrends")
+# Data Exploration 
+###################################################################
+library(baytrends)
+dataCensored<-dataCensored
+head(dataCensored)
+
+dfr <- analysisOrganizeData(dataCensored)
+#dfr$analySpec$depVarList
+
+hist(dfr$df$secchi)
+table(is.na(dfr$df$secchi))
+
+hist(dfr$df$salinity)
+table(is.na(dfr$df$salinity))
+
+hist(dfr$df$do)
+table(is.na(dfr$df$do))
+
+hist(dfr$df$wtemp)
+table(is.na(dfr$df$wtemp))
+
+hist(dfr$df$tss)
+table(is.na(dfr$df$tss))
+
+
+table(is.na(dfr$df$chla))
+table(is.na(dfr$df$din))
+table(is.na(dfr$df$n023))
+table(is.na(dfr$df$nh4))
+table(is.na(dfr$df$no23))
+table(is.na(dfr$df$po4))
+table(is.na(dfr$df$tdn))
+table(is.na(dfr$df$tdp))
+table(is.na(dfr$df$tn))
+table(is.na(dfr$df$tp))
+table(dfr$df$year)
+hist(dfr$df$doy)
+table(is.na(dfr$df$doy))
+
+table(dfr$df$station)
+
+
+table(dfr$df$month)
+table(is.na(dfr$df$no23))
+
+hist(dfr$df$do)
+table(is.na(dfr$df$do))
+
+
+# Load the first 10 rows of the built-in baytrends dataframe
+# dataCensored into a dataframe and just a few fields.
+df0 <- dataCensored[1:10,c("station","date","layer","tss","tdp","tp")]
+df0
+```

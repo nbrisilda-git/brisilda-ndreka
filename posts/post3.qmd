@@ -1,0 +1,41 @@
+---
+title: "Data Exploration - Censored Water Quality Data"
+toc: false
+---
+
+
+
+
+```{r code1, fig.align="center" , out.width = "100%", warning = FALSE, message = FALSE}
+library(baytrends)
+library(dplyr)
+library(ggplot2)
+
+dataCensored<-dataCensored
+utdp<- unSurvDF(dataCensored[,c("station","date","layer","salinity","tdp","tp")])
+
+utdp$inter<- ifelse(utdp$tdp_lo==utdp$tdp_hi,1,0)
+utdp16 <- utdp %>% filter(substr(utdp$date,1,4)=="1985")
+
+
+
+
+utdp161<- utdp16 %>% filter(inter==0)
+ ggplot(utdp16, aes(x=log(tdp_hi), y=log(tp_hi))) + 
+  geom_point(size=2, aes(colour=as.factor(inter))) +
+  geom_segment(data=utdp161,aes(xend= log(tdp_hi), yend = log(tp_lo)), arrow = arrow(length = unit(0.2, "cm")), color="red")+
+  geom_segment(data=utdp161,aes(xend = log(tdp_lo), yend=log(tp_hi)), arrow = arrow(length = unit(0.2, "cm")), color="blue")+
+  facet_grid(cols = vars(layer))+facet_wrap(~layer, ncol=2)+
+  theme_bw()+
+  theme(strip.background =element_rect(fill="grey"))+
+  theme(strip.text = element_text(colour = 'white'))
+ 
+ggplot(utdp16, aes(x=log(tdp_hi), y=log(tp_hi))) + 
+   geom_point(size=2, aes(colour=as.factor(inter))) +
+   geom_segment(data=utdp161,aes(xend= log(tdp_hi), yend = log(tp_lo)), arrow = arrow(length = unit(0.2, "cm")), color="red")+
+   geom_segment(data=utdp161,aes(xend = log(tdp_lo), yend=log(tp_hi)), arrow = arrow(length = unit(0.2, "cm")), color="blue")+
+   facet_grid(cols = vars(station))+ facet_wrap(~station, ncol=3)+
+   theme_bw()+
+   theme(strip.background =element_rect(fill="grey"))+
+   theme(strip.text = element_text(colour = 'white'))
+```

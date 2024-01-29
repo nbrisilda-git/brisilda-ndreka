@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/research.html",
+    "items": [
+      "/paper/paper2.html",
+      "/paper/paper1.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/post2.html",
+      "/posts/post3.html",
+      "/posts/post4.html",
+      "/posts/post1.html"
+    ]
+  }
+]

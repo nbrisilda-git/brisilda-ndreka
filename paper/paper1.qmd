@@ -1,0 +1,7 @@
+---
+title: "[Review of statistical methods for survival analysis using genomic data](https://doi.org/10.5808/GI.2019.17.4.e41)"
+Authors: "Lee S, Lim H."
+date: "Dec 20, 2019"
+toc: false
+---
+
