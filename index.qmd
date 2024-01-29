@@ -1,6 +1,6 @@
 ---
-title: "Heeju Lim"
-image: images/visa2.jpg
+title: "Brisilda Ndreka"
+image: images/img1.jpg
 toc: false
 about: 
   template: trestles
