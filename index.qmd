@@ -3,7 +3,9 @@ title: "Brisilda Ndreka"
 image: images/img.jpg
 toc: false
 about: 
-  template: trestles
+  id: hero-heading
+  template: jolla
+  #template: trestles
   image-shape: rectangle
   image-width: 20em
 
@@ -16,9 +18,7 @@ about:
       href: https://github.com/nbrisilda-git
     #- text: ResearchGate
      # href: https://www.researchgate.net/profile/Heeju-Lim
-    
 ---
-
 
 
 
@@ -41,3 +41,8 @@ about:
 [{{< fa check size=1.5x >}}]{style="color:green"} Human Behavior [{{< fa check size=1.5x >}}]{style="color:green"} Public Health [{{< fa check size=1.5x >}}]{style="color:green"} Social Networking
 
 ## **Contact :** [[{{< fa envelope size=1.5x >}}](mailto:brisilda.%20ndreka@uconn.edu)]{style="color:green"} [[{{< fa brands linkedin size=1.5x >}}](https://www.linkedin.com/in/brisilda-ndreka-25293696/)]{style="color:green"}
+
+
+"Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."\
+\
+   *Winston Churchill*
