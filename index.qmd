@@ -12,32 +12,32 @@ about:
       href: brisilda.ndreka@uconn.edu
     - text: LinkedIn
       href: https://www.linkedin.com/in/brisilda-ndreka-25293696/
-    #- text: GitHub
-    #  href: https://github.com/heeju-lim
+    - text: GitHub
+      href: https://github.com/nbrisilda-git
     #- text: ResearchGate
      # href: https://www.researchgate.net/profile/Heeju-Lim
+    
 ---
+
+
+
 
 ## **Current Status**
 
-[{{< fa user size=1.5x >}}]{style="color:green"}  **Ph.D Candidate in Statistics, UConn**
+[{{< fa user size=1.5x >}}]{style="color:green"} **Ph.D Candidate in Statistics, UConn**
 
+[{{< fa user size=1.5x >}}]{style="color:blue"} Advisor :[Dipak K. Dey](https://statistics.uconn.edu/person/dipak-dey/); [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
 
-[{{< fa user size=1.5x >}}]{style="color:blue"}  Advisor :[Dipak K. Dey](https://statistics.uconn.edu/person/dipak-dey/);  [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
+[{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Mathematics, City College of New York
 
-[{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Mathematics, City College of New York,  2018
+[{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Mathematics, University of Tirana
 
-[{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Mathematics, University of Tirana,  2012
-
-[{{< fa graduation-cap size=1.5x >}}]{style="color:red"} B.S. in Mathematics, University of Tirana, 2010
+[{{< fa graduation-cap size=1.5x >}}]{style="color:red"} B.S. in Mathematics, University of Tirana
 
 ## **Interests**
 
-[{{< fa check size=1.5x >}}]{style="color:green"}   Bayesian Inference
-[{{< fa check size=1.5x >}}]{style="color:green"}   Social Networking
+[{{< fa check size=1.5x >}}]{style="color:green"} Bayesian Inference [{{< fa check size=1.5x >}}]{style="color:green"} Statistical Network Analysis
 
-[{{< fa check size=1.5x >}}]{style="color:green"}   Health Behavior
-[{{< fa check size=1.5x >}}]{style="color:green"}   Statistical Network Analysis
+[{{< fa check size=1.5x >}}]{style="color:green"} Human Behavior [{{< fa check size=1.5x >}}]{style="color:green"} Public Health [{{< fa check size=1.5x >}}]{style="color:green"} Social Networking
 
-
-## **Contact :** [[{{< fa envelope size=1.5x >}}](mailto:brisilda. ndreka@uconn.edu)]{style="color:green"}     [[{{< fa brands linkedin size=1.5x >}}](https://www.linkedin.com/in/brisilda-ndreka-25293696/)]{style="color:green"}     
+## **Contact :** [[{{< fa envelope size=1.5x >}}](mailto:brisilda.%20ndreka@uconn.edu)]{style="color:green"} [[{{< fa brands linkedin size=1.5x >}}](https://www.linkedin.com/in/brisilda-ndreka-25293696/)]{style="color:green"}

@@ -1,56 +1,42 @@
 ---
-title: "About"
+title: "Research"
 toc: false
 page-layout: article
 ---
 
-## **Education**
-
-::: {.callout-tip icon="false"}
-## [{{< fa building-columns size=1.5x >}}]{style="color:blue"} Ph.D Student in Statistics, University of Connecticut.
-
-[{{< fa calendar size=1.5x >}}]{style="color:blue"} Aug. 2019 - Present\
-\##[{{< fa tag size=1x >}}]{style="color:blue"} an academic leave of absence (Aug. 2021 \~ Aug. 2023)
-
-[{{< fa user size=1.5x >}}]{style="color:blue"} Advisor : [Dipak K. Dey](https://statistics.uconn.edu/person/dipak-dey/); [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
-:::
-
-::: {.callout-tip icon="false"}
-## [{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Mathematics, City College of New York.
-
-[{{< fa calendar size=1.5x >}}]{style="color:crimson"} Aug. 2017 - Dec. 2018\
-:::
-
-::: {.callout-tip icon="false"}
-## [{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Mathematics, University of Tirana.
-
-[{{< fa calendar size=1.5x >}}]{style="color:crimson"} Sept. 2010 - Jul. 2012\
-:::
-
-::: {.callout-tip icon="false"}
-## [{{< fa graduation-cap size=1.5x >}}]{style="color:red"} B.S. Mathematics, University of Tirana
-
-[{{< fa calendar size=1.5x >}}]{style="color:red"} Sept. 2007 - Jul. 2010\
-:::
-
-## **Awards and Honors**
-
+## **Peer-Reviewed Articles**
 ::: {.callout-warning appearance="simple" icon="false"}
-Excellence of Teaching Certificate, Department of Statistics, University of Connecticut, October 2023\
-Best Student Poster Award, Virginia Tech Univ. July 2023\
-Conference Participation Award, The Graduate School, University of Connecticut, July 2023\
-Pre-doctoral Fellowship, Department of Statistics, University of Connecticut, Summer 2022, 2021\
-Summer Research Support, Department of Statistics, University of Connecticut, Summer 2021\
-Rich Scholarship,Department of Mathematics, City College of New York, July 2018\
-Rich Summer Internship,Department of Mathematics, City College of New York, Summer 2018\
-Merit Scholarship, Faculty of Natural Science, University of Tirana, 2011, 2012, 2013\
+* Dey, D. K., & **Ndreka, B. (2022)**. The latent-space adjusted approach: An alternative form in modeling economic
+development and forest cover. International Journal of Statistical Sciences, 22(1), 197–212.
+
+:::
+## **Working Papers**
+::: {.callout-warning appearance="simple" icon="false"}
+
+* **Ndreka, B.**, K.Dey, D., & Lachos, V. H. (2023). Bayesian estimation of contagion effect: An application of
+friendship networks and alcohol behavior. [Under review.].
+
+* **Ndreka, B.**, K.Dey, D., & Xu, R. (2023). Comparison of methods for estimating contagion effect in a social
+network analysis [Under review.].
+
+* **Ndreka, B.**, K.Dey, D., & Lacho, V. H. (2024). Bayesian inference for social influence estimation via a skewed
+link function in modeling social selection [Working paper.].
+
 :::
 
-## ![](images/p1.pdf)![](images/p2.pdf){width="320"}
 
-## **Technical Skills**
+##  **Conference Presentations**
+::: {.callout-warning appearance="simple" icon="false"}
 
-::: {.callout-caution appearance="simple" icon="false"}
-**Advance programming skills of R, STAN**\
-Moderate programming skills in Python and SAS\
+* Alcohol-Contagion Effect within Teenage Friendships. *Pushing the Boundary of Data Science through Statistical Modeling and Inference. Blacksburg, VA, 2023*.
+
+* Bayesian Estimation of Contagion Effect. *The 35th New England Statistics Symposium Boston, MA, 2023*.
+
+* Peer of International Trade Between European Countries. *A Special Conference Celebrating UConn Department of Statistics 60th Anniversary Storrs, CT*.
+
+
 :::
+
+
+
+

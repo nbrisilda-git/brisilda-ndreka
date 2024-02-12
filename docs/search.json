@@ -9,9 +9,9 @@
   {
     "objectID": "index.html#current-status",
     "href": "index.html#current-status",
-    "title": "Heeju Lim",
-    "section": "",
-    "text": "Ph.D Student in Statistics, UConn\n Advisor : Victor Hugo Lachos\n M.S. in Statistics, Korea Univ. 2017\n B.S. in Statistics, Sejong Univ. 2015"
+    "title": "Brisilda Ndreka",
+    "section": "Current Status",
+    "text": "Current Status\n Ph.D Candidate in Statistics, UConn\n Advisor :Dipak K. Dey; Victor Hugo Lachos\n M.S. in Mathematics, City College of New York\n M.S. in Mathematics, University of Tirana\n B.S. in Mathematics, University of Tirana"
   },
   {
     "objectID": "index.html#educational-history",
@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Brisilda Ndreka",
     "section": "",
-    "text": "Ph.D Candidate in Statistics, UConn\n Advisor :Dipak K. Dey; Victor Hugo Lachos\n M.S. in Mathematics, City College of New York, 2018\n M.S. in Mathematics, University of Tirana, 2012\n B.S. in Mathematics, University of Tirana, 2010"
+    "text": "Ph.D Candidate in Statistics, UConn\n Advisor :Dipak K. Dey; Victor Hugo Lachos\n M.S. in Mathematics, City College of New York\n M.S. in Mathematics, University of Tirana\n B.S. in Mathematics, University of Tirana"
   },
   {
     "objectID": "research.html",
@@ -121,9 +121,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Research",
     "section": "",
-    "text": "Ph.D Student in Statistics, University of Connecticut.\n\n\n\n Aug. 2019 - Present\n## an academic leave of absence (Aug. 2021 ~ Aug. 2023)\n Advisor : Dipak K. Dey; Victor Hugo Lachos\n\n\n\n\n\n\n\n\n M.S. in Mathematics, City College of New York.\n\n\n\n Aug. 2017 - Dec. 2018\n\n\n\n\n\n\n\n\n\n M.S. in Mathematics, University of Tirana.\n\n\n\n Sept. 2010 - Jul. 2012\n\n\n\n\n\n\n\n\n\n B.S. Mathematics, University of Tirana\n\n\n\n Sept. 2007 - Jul. 2010"
+    "text": "Dey, D. K., & Ndreka, B. (2022). The latent-space adjusted approach: An alternative form in modeling economic development and forest cover. International Journal of Statistical Sciences, 22(1), 197–212."
   },
   {
     "objectID": "about.html#educational-history",
@@ -137,7 +137,7 @@
     "href": "project.html",
     "title": "Experience",
     "section": "",
-    "text": "Principal Instructor, University of Connecticut\n\n\n\nSTAT 3445–Introduction to Mathematical Statistics II, Spring 2023, Spring 2022\nSTAT 1100–Elementary Concepts of Statistics, Spring 2024, Fall 2023, Fall 2022\n\n\n\n\n\n\n\n\n\n Principal Instructor, City College of New York\n\n\n\nMath 19500 – Precalculus, Spring 2019, Summer 2019\nSTAT 1100 – Calculus I, Fall 2018\nSTAT 1100 – Calculus III, Fall 2018, Spring 2019\n\n\n\n\n\n\n\n\n\n Principal Instructor, The Ismail Qemali University of Vlore\n\n\n\nCalculus I, Summer 2012\nLinear Algebra, Fall 2013"
+    "text": "University of Connecticut\n\n\n\n\nSTAT 3445–Introduction to Mathematical Statistics II (Primary Instructor)\nSTAT 1100–Elementary Concepts of Statistics (Primary Instructor)\n\n\n\n\n\n\n\n\n\n City College of New York\n\n\n\n\nMath 19500 – Precalculus (Primary Instructor)\nSTAT 1100 – Calculus I (Primary Instructor)\nSTAT 1100 – Calculus III (Primary Instructor)\n\n\n\n\n\n\n\n\n\n Ismail Qemali University of Vlore\n\n\n\n\nCalculus I (Primary Instructor)\nLinear Algebra (Primary Instructor)"
   },
   {
     "objectID": "project.html#work-and-research-experience",
@@ -149,7 +149,7 @@
   {
     "objectID": "about.html#technical-skills",
     "href": "about.html#technical-skills",
-    "title": "About",
+    "title": "Research",
     "section": "Technical Skills",
     "text": "Technical Skills\n\n\n\n\n\n\nAdvance programming skills of R, STAN\nModerate programming skills in Python and SAS"
   },
@@ -163,7 +163,7 @@
   {
     "objectID": "about.html#awards-and-honors",
     "href": "about.html#awards-and-honors",
-    "title": "About",
+    "title": "Research",
     "section": "Awards and Honors",
     "text": "Awards and Honors\n\n\n\n\n\n\nExcellence of Teaching Certificate, Department of Statistics, University of Connecticut, October 2023\nBest Student Poster Award, Virginia Tech Univ. July 2023\nConference Participation Award, The Graduate School, University of Connecticut, July 2023\nPre-doctoral Fellowship, Department of Statistics, University of Connecticut, Summer 2022, 2021\nSummer Research Support, Department of Statistics, University of Connecticut, Summer 2021\nRich Scholarship,Department of Mathematics, City College of New York, July 2018\nRich Summer Internship,Department of Mathematics, City College of New York, Summer 2018\nMerit Scholarship, Faculty of Natural Science, University of Tirana, 2011, 2012, 2013"
   },
@@ -193,7 +193,7 @@
     "href": "index.html#interests",
     "title": "Brisilda Ndreka",
     "section": "Interests",
-    "text": "Interests\n Bayesian Inference  Social Networking\n Health Behavior  Statistical Network Analysis"
+    "text": "Interests\n Bayesian Inference  Statistical Network Analysis\n Human Behavior  Public Health  Social Networking"
   },
   {
     "objectID": "index.html#contact-information-fa-envelope-size2x",
@@ -383,5 +383,19 @@
     "title": "Simulation Result-N:500, Rate:0.05",
     "section": "",
     "text": "Simulation Result1\n\nOriginal Code for Left Censored Data with n=500, per=0.05\nNew Code for Left Censored Data with n=500, per=0.05\nNew Code for Interv Censored Data with n=500, per=0.05\n\n\nlibrary(dplyr)\nlibrary(reshape2)\nlibrary(ggplot2)\nsetwd(\"C:\\\\Users\\\\leejw\\\\code\\\\skewt\")\n################################################################################\n# Summary of the Data\n################################################################################\nload(\"ST.results1_500_0.05.RData\")\nload(\"ST.results2_500_0.05.RData\")\nload(\"ST.results3_500_0.05.RData\")\n\n\nrdata &lt;- do.call(rbind, lapply((1:100), function(i){\n  rbind(data.frame(group=1, betas=rep(1:6),AVG=round(ST.results1[[i]][[1]],4), SD=append(round(ST.results1[[i]][[2]],4),\"NaN\"))\n        , data.frame(group=2, betas=rep(1:6),AVG=round(ST.results2[[i]][[1]],4), SD=append(round(ST.results2[[i]][[2]],4),\"NaN\"))\n        , data.frame(group=3, betas=rep(1:6),AVG=round(ST.results3[[i]][[1]],4), SD=append(round(ST.results3[[i]][[2]],4),\"NaN\")))}))\n\nrdata$SD&lt;-as.numeric(rdata$SD)\ngroup_data &lt;- rdata %&gt;%\n  group_by(group, betas) %&gt;%\n  summarize(Mean = mean(AVG, na.rm=TRUE), SD = mean(SD, na.rm=TRUE))\n\ngroup_data &lt;- data.frame(group_data)\n\ndcast(group_data, betas~group, value.var=c(\"Mean\")) \n\n  betas         1         2         3\n1     1  1.017852  0.999203  0.996218\n2     2  2.000764  2.000802  2.001963\n3     3  3.023964  3.023819  3.012659\n4     4  1.097430  1.048711  0.986735\n5     5 -2.204184 -2.109817 -2.143581\n6     6  4.426183  4.270175  4.075240\n\ndcast(group_data, betas~group, value.var=c(\"SD\")) \n\n  betas        1        2        3\n1     1 0.128714 0.129101 0.124290\n2     2 0.030068 0.029947 0.029289\n3     3 0.120062 0.119536 0.116559\n4     4 0.141329 0.137861 0.127260\n5     5 0.395675 0.388067 0.386022\n6     6      NaN      NaN      NaN\n\n#boxplot(AVG~group+betas, data=rdata)\n#boxplot(SD~group+betas, data=rdata)\n\nbeta.names &lt;-  c(\"1\"=\"beta1\", \"2\"=\"beta2\", \"3\"=\"beta3\",\"4\"=\"sigma\",\"5\"=\"lambda\",\"6\"=\"nu\")\nrdata$group &lt;- as.factor(rdata$group)\nbp1 &lt;- ggplot(rdata, aes(x=betas, y=AVG, group=group)) + \n  geom_boxplot(aes(fill=group), alpha=0.5) + \n  facet_wrap(~ betas, ncol=3, scales='free', labeller = as_labeller(beta.names))+\n  theme(axis.title.x=element_blank(),\n        axis.text.x=element_blank(),\n        axis.ticks.x=element_blank())+\n  scale_fill_discrete(labels=c('Left Censored-Old', 'Left Censored-New',\"Interv Censored-New\"))\nbp1\n\n\n\n\n\n\n\nbp2 &lt;- ggplot(rdata, aes(x=betas, y=SD, group=group)) + \n  geom_boxplot(aes(fill=group), alpha=0.5) + \n  facet_wrap(~ betas, ncol=3, scales='free', labeller = as_labeller(beta.names))+\n  theme(axis.title.x=element_blank(),\n        axis.text.x=element_blank(),\n        axis.ticks.x=element_blank())+\n  scale_fill_discrete(labels=c('Left Censored-Old', 'Left Censored-New',\"Interv Censored-New\"))\nbp2"
+  },
+  {
+    "objectID": "about.html#working-papers",
+    "href": "about.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n\n\n\n\n\nNdreka, B., K.Dey, D., & Lachos, V. H. (2023). Bayesian estimation of contagion effect: An application of friendship networks and alcohol behavior. [Under review.].\nNdreka, B., K.Dey, D., & Xu, R. (2023). Comparison of methods for estimating contagion effect in a social network analysis [Under review.].\nNdreka, B., K.Dey, D., & Lacho, V. H. (2024). Bayesian inference for social influence estimation via a skewed link function in modeling social selection [Working paper.]."
+  },
+  {
+    "objectID": "about.html#conference-presentations",
+    "href": "about.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\n\n\n\n\n\n\nAlcohol-Contagion Effect within Teenage Friendships. Pushing the Boundary of Data Science through Statistical Modeling and Inference. Blacksburg, VA, 2023.\nBayesian Estimation of Contagion Effect. The 35th New England Statistics Symposium Boston, MA, 2023.\nPeer of International Trade Between European Countries. A Special Conference Celebrating UConn Department of Statistics 60th Anniversary Storrs, CT."
   }
 ]
